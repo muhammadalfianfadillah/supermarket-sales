@@ -1,6 +1,6 @@
 # Supermarket Dashboard
 
-### Dashboard Link: https://app.powerbi.com/groups/me/reports/40c48254-6bee-4526-b4ea-e690aa7f540d?ctid=1c83c9f0-a5bf-40a5-b942-54ecde4a26ba&pbi_source=linkShare
+### Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMTFhY2U0YWEtZjliYi00OThjLWFiOWQtNjhiMWQxZGNmNTU3IiwidCI6IjFjODNjOWYwLWE1YmYtNDBhNS1iOTQyLTU0ZWNkZTRhMjZiYSIsImMiOjEwfQ%3D%3D
 
 ## View Supermarket Dashboard
 ![Picture2](https://github.com/muhammadalfianfadillah/supermarket-sales/assets/154108945/7b786c19-52ca-4875-9faf-a92a83c1d02b)
